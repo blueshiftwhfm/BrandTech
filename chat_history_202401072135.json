@@ -1,0 +1,14 @@
+[
+    {
+        "role": "assistant",
+        "content": "Olá, eu sou o assistente virtual da Pupila! Em que posso ajudar?"
+    },
+    {
+        "role": "user",
+        "content": "qual nome da empresa?"
+    },
+    {
+        "role": "assistant",
+        "content": "O nome da empresa é JPR Ambiental."
+    }
+]

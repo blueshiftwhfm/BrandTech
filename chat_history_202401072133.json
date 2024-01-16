@@ -1,0 +1,14 @@
+[
+    {
+        "role": "assistant",
+        "content": "Olá, eu sou o assistente virtual da Pupila! Em que posso ajudar?"
+    },
+    {
+        "role": "user",
+        "content": "oi"
+    },
+    {
+        "role": "assistant",
+        "content": "Olá! Como posso ajudar você hoje?"
+    }
+]

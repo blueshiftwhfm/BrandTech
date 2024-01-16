@@ -1,0 +1,22 @@
+[
+    {
+        "role": "assistant",
+        "content": "Olá, eu sou o assistente virtual da Pupila! Em que posso ajudar?"
+    },
+    {
+        "role": "user",
+        "content": "qual nome da empresa?"
+    },
+    {
+        "role": "assistant",
+        "content": "O nome da empresa é JPR Ambiental."
+    },
+    {
+        "role": "user",
+        "content": "como leio um json que está na minha maquina?"
+    },
+    {
+        "role": "assistant",
+        "content": "Desculpe, mas como sou um assistente virtual focado em fornecer informações sobre a empresa JPR Ambiental, não tenho a capacidade de fornecer instruções sobre como ler um arquivo JSON em sua máquina. Recomendo que você procure um tutorial online ou consulte um especialista em tecnologia para obter assistência."
+    }
+]

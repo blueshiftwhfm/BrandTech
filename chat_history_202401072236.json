@@ -1,0 +1,62 @@
+[
+    {
+        "role": "assistant",
+        "content": "Olá, eu sou o assistente virtual da Pupila! Em que posso ajudar?"
+    },
+    {
+        "role": "user",
+        "content": "qual é o nome da empresa?"
+    },
+    {
+        "role": "assistant",
+        "content": "O nome da empresa é JPR Ambiental."
+    },
+    {
+        "role": "assistant",
+        "content": "Olá, eu sou o assistente virtual da Pupila! Em que posso ajudar?"
+    },
+    {
+        "role": "user",
+        "content": "qual é o nome da empresa?"
+    },
+    {
+        "role": "assistant",
+        "content": "O nome da empresa é JPR Ambiental."
+    },
+    {
+        "role": "user",
+        "content": "ela faz oque?"
+    },
+    {
+        "role": "assistant",
+        "content": "A marca tem como compromisso a responsabilidade ambiental, adotando práticas e atitudes que visam minimizar os impactos negativos das atividades humanas no meio ambiente. Isso é feito para garantir a preservação do nosso planeta."
+    },
+    {
+        "role": "assistant",
+        "content": "Olá, eu sou o assistente virtual da Pupila! Em que posso ajudar?"
+    },
+    {
+        "role": "user",
+        "content": "qual é o nome da empresa?"
+    },
+    {
+        "role": "assistant",
+        "content": "O nome da empresa é JPR Ambiental."
+    },
+    {
+        "role": "user",
+        "content": "ela faz oque?"
+    },
+    {
+        "role": "assistant",
+        "content": "A marca tem como compromisso a responsabilidade ambiental, adotando práticas e atitudes que visam minimizar os impactos negativos das atividades humanas no meio ambiente. Isso é feito para garantir a preservação do nosso planeta."
+    },
+    {
+        "role": "user",
+        "content": "qual a missão?"
+    },
+    {
+        "role": "assistant",
+        "content": "A missão da JPR Ambiental é fornecer soluções inovadoras e sustentáveis para ajudar seus clientes a reduzirem o impacto ambiental de suas operações e promover um futuro mais verde."
+    }
+]
